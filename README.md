@@ -1,1 +1,1 @@
-# HackerRank_Algorithm_Solutions-
+# HackerRank_Algorithm_Solutions
